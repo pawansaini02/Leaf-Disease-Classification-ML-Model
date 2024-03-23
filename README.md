@@ -1,5 +1,7 @@
 # Leaf-Disease-Classification-ML-Model
 
+This is the leaf disease classification computer vision machine learning model
+
 Tasks Performed 
 
 Building an Image Classifier
